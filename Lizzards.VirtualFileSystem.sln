@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6B04A0D5-321D-4685-A0F6-8F27F6DB6F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lizards.VirtualFileSystem", "src\Lizards.VirtualFileSystem\Lizards.VirtualFileSystem.csproj", "{F357F818-0615-4722-B6D8-3755BBB25FA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lizards.VirtualFileSystem", "src\Lizards.VirtualFileSystem\VirtualFileSystem.csproj", "{F357F818-0615-4722-B6D8-3755BBB25FA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{80D72564-E0D3-4C05-9280-BB0266C4691D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lizards.VirtualFileSystem.UnitTests", "test\Lizards.VirtualFileSystem.UnitTests\Lizards.VirtualFileSystem.UnitTests.csproj", "{1F1FA768-D13C-4220-A590-12CB2A972669}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lizards.VirtualFileSystem.UnitTests", "test\Lizards.VirtualFileSystem.UnitTests\UnitTests.csproj", "{1F1FA768-D13C-4220-A590-12CB2A972669}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
